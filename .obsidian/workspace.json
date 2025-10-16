@@ -1,0 +1,190 @@
+{
+  "main": {
+    "id": "37d2ba35c557d382",
+    "type": "split",
+    "children": [
+      {
+        "id": "b04ab6b4473a3031",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f66ae361a13b9364",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4f7d47c54e820e5f",
+    "type": "split",
+    "children": [
+      {
+        "id": "d509668d276a039b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7e5ef2799c9e92ae",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "81e15238c201519a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:essay",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "a8b21f525f867907",
+    "type": "split",
+    "children": [
+      {
+        "id": "0e76ffb8c58de004",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c62bfe910788b49a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "32d658461c9cafd9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "94d3399aef48fc16",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "361bd3966147c2a6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "f66ae361a13b9364",
+  "lastOpenFiles": [
+    "nodes/Turtle Kimura (att).md",
+    "nodes/Ghost (bot).md~",
+    "nodes/Shield Kimura (att).md~",
+    "nodes/Shield Kimura (att).md",
+    "templates/_Template.md",
+    "nodes/Single Leg (att).md~",
+    "nodes/Double Leg (att).md~",
+    "nodes/Side Control (bot).md~",
+    "nodes/Hedgehog Kimura (top).md",
+    "nodes/Hedgehog Kimura (top).md~",
+    "nodes/Weave (top).md",
+    "nodes/Standup.md",
+    "nodes/Standup (both).md~",
+    "nodes/Side Control Kimura (att top).md",
+    "nodes/Side Control Kimura (atttop).md",
+    "nodes/Back (att).md",
+    "nodes/Side Control Kimura (att top).md~",
+    "nodes/Knee Shield (bot).md~",
+    "nodes/Weave (top).md~",
+    "nodes/Half-Butterfly (bot).md",
+    "nodes/Half Guard (bot).md",
+    "nodes/Ashi Garami Standing (bot).md",
+    "nodes/Ghost (bot).md",
+    "nodes/Side Control (bot).md",
+    "nodes/North-South (bot).md",
+    "nodes/Knee Shield (bot).md",
+    "nodes/80-20 (def).md",
+    "nodes/Back (def).md",
+    "nodes/Double Leg (att).md",
+    "nodes/Lowground (att).md",
+    "nodes/Crucifix (att).md",
+    "nodes/Arm Triangle (att).md",
+    "nodes/North-South Kimura (att).md",
+    "nodes/TV Head Scissor (att).md",
+    "nodes/TV (att).md",
+    "nodes/Highground (att).md",
+    "Argus.canvas",
+    "resources/Screenshot from 2024-07-02 16-28-55.png"
+  ]
+}
