@@ -4,11 +4,3 @@ tags:
 ---
 
 # {{title}}
-
-**Escape**:
-**Fallback**:
-**Transition**:
-**Upgrade**:
-**Sweep**:
-**Pass**:
-**Submission**:

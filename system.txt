@@ -1,7 +1,6 @@
-T1: Worst positions with finish.
-T2: Worst positions.
+T1: Bad positions with finish.
+T2: Bad positions.
 T3: Disadvantage.
 T4: Advantage
-T5: Best positions.
-T6: Best positions with finish.
-
+T5: Good positions.
+T6: Good positions with finish.
