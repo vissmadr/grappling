@@ -11,39 +11,32 @@
       "query": "tag:#T1",
       "color": {
         "a": 1,
-        "rgb": 16711935
+        "rgb": 16711680
       }
     },
     {
       "query": "tag:#T2",
       "color": {
         "a": 1,
-        "rgb": 16711680
+        "rgb": 16750080
       }
     },
     {
       "query": "tag:#T3",
       "color": {
         "a": 1,
-        "rgb": 16750080
+        "rgb": 9830655
       }
     },
     {
-      "query": "tag:#T4  ",
+      "query": "tag:#T4",
       "color": {
         "a": 1,
-        "rgb": 25855
+        "rgb": 51455
       }
     },
     {
       "query": "tag:#T5",
-      "color": {
-        "a": 1,
-        "rgb": 65480
-      }
-    },
-    {
-      "query": "tag:#T6",
       "color": {
         "a": 1,
         "rgb": 65280
@@ -60,6 +53,6 @@
   "repelStrength": 14.1666666666667,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.9325014191103913,
+  "scale": 0.6841850171771414,
   "close": true
 }
