@@ -1,3 +1,6 @@
 # Overhook Knee Shield (bot)
-Position: #T0
-Tags: #guard
+Position: #T3
+Tags:
+
+[[Front Triangle (attack)]]
+[[Overhook Butterfly (bot)]]

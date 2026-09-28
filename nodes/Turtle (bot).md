@@ -1,3 +1,9 @@
 # Turtle (bot)
-Position: #T0
+Position: #T2
 Tags: 
+
+[[Turtle Control (bot)]]
+
+[[Standing Back Control (defend)]]
+
+[[Turtle Kimura (attack)]]

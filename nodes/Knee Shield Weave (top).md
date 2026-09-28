@@ -1,3 +1,7 @@
 # Knee Shield Weave (top)
-Position: #T0
+Position: #T3
 Tags: 
+
+[[Coyote (defend)]]
+
+[[Overhook Knee Shield (top)]]

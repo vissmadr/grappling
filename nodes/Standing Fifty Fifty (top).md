@@ -1,3 +1,5 @@
 # Standing Fifty Fifty (top)
-Position: #T0
+Position: #T2
 Tags: 
+
+[[Backside Fifty Fifty (defend)]]
