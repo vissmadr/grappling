@@ -1,4 +1,5 @@
 # Mounted Triangle (attack)
-#T5
+Position: #T5
+Tags: #pressure
 
 [[Front Triangle (attack)]]

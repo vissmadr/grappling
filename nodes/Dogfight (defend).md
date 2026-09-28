@@ -1,5 +1,6 @@
 # Dogfight (defend)
-#T2
+Position: #T2
+Tags: #wrestle
 
 [[Coyote (defend)]]
 [[Godfather (defend)]]

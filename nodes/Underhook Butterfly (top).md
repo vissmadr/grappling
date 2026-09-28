@@ -1,2 +1,6 @@
 # Underhook Butterfly (top)
-#T0
+Position: #T2
+Tags: #guard
+
+[[Knee Slice (bot)]]
+[[Three Quarters Mount (bot)]]

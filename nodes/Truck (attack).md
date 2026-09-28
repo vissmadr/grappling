@@ -1,2 +1,3 @@
 # Truck (attack)
-#T0
+Position: #T0
+Tags: 

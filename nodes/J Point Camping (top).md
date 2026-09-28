@@ -1,2 +1,3 @@
 # J Point Camping (top)
-#T0
+Position: #T0
+Tags: 

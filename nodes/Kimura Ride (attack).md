@@ -1,2 +1,7 @@
 # Kimura Ride (attack)
-#T0
+Position: #T4
+Tags: 
+
+[[Mount (top)]]
+[[Kimura Trap (attack)]]
+[[Turtle Kimura (attack)]]

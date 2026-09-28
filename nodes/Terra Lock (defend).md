@@ -1,2 +1,3 @@
 # Terra Lock (defend)
-#T2
+Position: #T1
+Tags: #leglock

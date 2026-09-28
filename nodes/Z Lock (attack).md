@@ -1,2 +1,3 @@
 # Z Lock (attack)
-#T0
+Position: #T5
+Tags: #leglock #endgame

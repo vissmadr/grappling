@@ -1,2 +1,5 @@
 # Kimura Padlock (attack)
-#T0
+Position: #T5
+Tags: 
+
+[[Kimura Ride (attack)]]

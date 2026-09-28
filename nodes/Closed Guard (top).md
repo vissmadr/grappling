@@ -1,9 +1,11 @@
 # Closed Guard (top)
-#T3
+Position: #T3
+Tags: 
 
 [[Standing Closed Guard (top)]]
 [[Front Headlock (defend)]]
+[[Clam (defend)]]
 
 [[Knee Shield (top)]]
 
-Sweep: [[Mount (bottom)]]
+Sweep: [[Mount (bot)]]

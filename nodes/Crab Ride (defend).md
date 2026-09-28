@@ -1,2 +1,3 @@
 # Crab Ride (defend)
-#T0
+Position: #T0
+Tags: 

@@ -1,2 +1,0 @@
-# Northsouth (bottom)
-#T1

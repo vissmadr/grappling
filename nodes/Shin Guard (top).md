@@ -1,5 +1,8 @@
 # Shin Guard (top)
-#T2
+Position: #T2
+Tags: #guard
 
 [[Standing Irimi Ashi (top)]]
 [[X Guard (top)]]
+[[Situp Guard (top)]]
+Sweep: [[Split Squat (bot)]]

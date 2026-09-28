@@ -1,4 +1,5 @@
 # Reverse X Guard (top)
-#T2
+Position: #T2
+Tags: 
 
 [[Cross Ashi (defend)]]

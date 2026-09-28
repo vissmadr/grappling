@@ -1,2 +1,3 @@
 # Irimi Ashi (defend)
-#T2
+Position: #T1
+Tags: #leglock

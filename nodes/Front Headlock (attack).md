@@ -1,4 +1,5 @@
 # Front Headlock (attack)
-#T5
+Position: #T5
+Tags: 
 
 [[Anaconda Trap (attack)]]

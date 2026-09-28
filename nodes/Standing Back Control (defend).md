@@ -1,2 +1,3 @@
 # Standing Back Control (defend)
-#T1
+Position: #T1
+Tags: #pressure #choke #endgame

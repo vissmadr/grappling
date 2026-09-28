@@ -1,2 +1,7 @@
 # Kimura Trap (attack)
-#T0
+Position: #T5
+Tags: 
+
+[[Back (attack)]]
+[[Crucifix (attack)]]
+[[Side Control Kimura (attack)]]

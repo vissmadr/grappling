@@ -1,4 +1,5 @@
 # Highground (defend)
-#T1
+Position: #T1
+Tags: 
 
 [[Lowground (defend)]]

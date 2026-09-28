@@ -1,5 +1,6 @@
 # Godfather (attack)
-#T4
+Position: #T4
+Tags: 
 
 [[Dogfight (attack)]]
 [[Coyote (attack)]]

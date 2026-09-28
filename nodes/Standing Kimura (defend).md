@@ -1,2 +1,3 @@
 # Standing Kimura (defend)
-#T0
+Position: #T2
+Tags: 

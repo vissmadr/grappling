@@ -1,5 +1,6 @@
 # Split Squat (top)
-#T4
+Position: #T4
+Tags: 
 
 [[Half Guard (top)]]
 

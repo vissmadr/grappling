@@ -1,4 +1,5 @@
 # Reverse DeLaRiva (top)
-#T3
+Position: #T3
+Tags: #guard
 
 [[Headquarters (top)]]

@@ -1,5 +1,6 @@
 # Crucifix (attack)
-#T5
+Position: #T5
+Tags: #endgame
 
 [[Back (attack)]]
 [[Straitjacket (attack)]]

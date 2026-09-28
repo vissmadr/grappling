@@ -1,2 +1,6 @@
 # Shoulder Crunch (attack)
-#T0
+Position: #T4
+Tags: 
+
+[[Mount (top)]]
+[[Front Triangle (attack)]]

@@ -1,2 +1,6 @@
 # Inside Ashi (defend)
-#T0
+Position: #T1
+Tags: #leglock
+
+[[Bellydown Ashi (defend)]]
+[[Z Lock (defend)]]

@@ -1,6 +1,7 @@
 # Double Pull
-#T3
+Position: #T3
+Tags: 
 
 [[Open Guard (top)]]
 
-[[Open Guard (bottom)]]
+[[Open Guard (bot)]]

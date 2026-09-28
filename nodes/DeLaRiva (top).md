@@ -1,4 +1,6 @@
 # DeLaRiva (top)
-#T3
+Position: #T3
+Tags: #guard
 
 [[Reverse DeLaRiva (top)]]
+[[Terra Lock (defend)]]

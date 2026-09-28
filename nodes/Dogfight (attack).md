@@ -1,5 +1,6 @@
 # Dogfight (attack)
-#T4
+Position: #T4
+Tags: #wrestle
 
 [[Coyote (attack)]]
 [[Godfather (attack)]]

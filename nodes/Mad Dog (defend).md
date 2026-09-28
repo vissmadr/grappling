@@ -1,5 +1,6 @@
 # Mad Dog (defend)
-#T2
+Position: #T2
+Tags: 
 
 [[Dogfight (defend)]]
 [[Godfather (defend)]]

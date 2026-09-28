@@ -1,2 +1,6 @@
 # Shoulder Crunch (defend)
-#T0
+Position: #T2
+Tags: 
+
+[[Mount (bot)]]
+[[Front Triangle (defend)]]

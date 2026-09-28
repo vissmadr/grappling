@@ -1,4 +1,6 @@
 # Cross Ashi (attack)
-#T5
+Position: #T5
+Tags: #leglock
 
 [[Double Cross Ashi (attack)]]
+[[Inside Ashi (attack)]]

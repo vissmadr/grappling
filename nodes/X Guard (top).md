@@ -1,6 +1,9 @@
 # X Guard (top)
-#T2
+Position: #T2
+Tags: 
+
+[[Reverse Knee on Belly (top)]]
 
 [[Reverse X Guard (top)]]
 [[Standing Inside Ashi (top)]]
-Sweep: [[Split Squat (bottom)]]
+Sweep: [[Split Squat (bot)]]

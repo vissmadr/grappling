@@ -1,4 +1,5 @@
 # Standing Closed Guard (top)
-#T3
+Position: #T3
+Tags: 
 
 [[Standing K Guard (top)]]

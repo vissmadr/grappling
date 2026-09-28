@@ -1,2 +1,3 @@
 # Z Lock (defend)
-#T0
+Position: #T1
+Tags: #leglock #endgame

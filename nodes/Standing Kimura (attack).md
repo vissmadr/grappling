@@ -1,2 +1,3 @@
 # Standing Kimura (attack)
-#T0
+Position: #T4
+Tags: 

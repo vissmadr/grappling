@@ -1,4 +1,5 @@
 # Straitjacket (attack)
-#T5
+Position: #T5
+Tags: #choke #endgame
 
 [[Crucifix (attack)]]

@@ -1,2 +1,6 @@
 # Outside Ashi (defend)
-#T0
+Position: #T1
+Tags: #leglock
+
+[[Fifty Fifty]]
+[[Irimi Ashi (defend)]]

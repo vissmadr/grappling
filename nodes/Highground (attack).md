@@ -1,4 +1,5 @@
 # Highground (attack)
-#T5
+Position: #T5
+Tags: 
 
 [[Lowground (attack)]]

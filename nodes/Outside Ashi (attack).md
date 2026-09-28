@@ -1,2 +1,6 @@
 # Outside Ashi (attack)
-#T0
+Position: #T5
+Tags: #leglock
+
+[[Fifty Fifty]]
+[[Irimi Ashi (attack)]]

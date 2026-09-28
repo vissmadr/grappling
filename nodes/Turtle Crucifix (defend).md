@@ -1,2 +1,7 @@
 # Turtle Crucifix (defend)
-#T0
+Position: #T1
+Tags: #choke
+
+[[Turtle Control (bot)]]
+
+[[Crucifix (defend)]]

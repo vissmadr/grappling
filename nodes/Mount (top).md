@@ -1,8 +1,9 @@
 # Mount (top)
-#T5
+Position: #T5
+Tags: #pressure
 
 [[Technical Mount (top)]]
 [[Arm Triangle (attack)]]
 
 [[Three Quarters Mount (top)]]
-[[Closed Guard (bottom)]]
+[[Closed Guard (bot)]]

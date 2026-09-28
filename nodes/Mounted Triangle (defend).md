@@ -1,4 +1,5 @@
 # Mounted Triangle (defend)
-#T1
+Position: #T1
+Tags: #pressure
 
 [[Front Triangle (defend)]]

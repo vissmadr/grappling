@@ -1,7 +1,10 @@
 # Half Guard (top)
-#T4
+Position: #T4
+Tags: #guard
 
 [[Flat Half (top)]]
 [[Split Squat (top)]]
+
+[[Half Butterfly (top)]]
 
 [[Coyote (defend)]]

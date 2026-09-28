@@ -1,4 +1,5 @@
 # Front Headlock (defend)
-#T2
+Position: #T2
+Tags: 
 
 [[Anaconda Trap (defend)]]

@@ -1,2 +1,6 @@
 # Inside Ashi (attack)
-#T0
+Position: #T5
+Tags: #leglock
+
+[[Bellydown Ashi (attack)]]
+[[Z Lock (attack)]]

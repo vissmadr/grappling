@@ -1,2 +1,5 @@
 # Double Cross Ashi (defend)
-#T1
+Position: #T1
+Tags: #leglock
+
+[[Cross Ashi (defend)]]

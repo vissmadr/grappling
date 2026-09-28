@@ -1,5 +1,6 @@
 # Standing Irimi Ashi (top)
-#T2
+Position: #T2
+Tags: #leglock
 
 [[Irimi Ashi (defend)]]
 [[X Guard (top)]]

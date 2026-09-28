@@ -1,4 +1,6 @@
 # Back (attack)
-#T5
+Position: #T5
+Tags: #choke #endgame
 
 [[Back Body Triangle (attack)]]
+[[Back Triangle (attack)]]

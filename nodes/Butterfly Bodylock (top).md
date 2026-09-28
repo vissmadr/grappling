@@ -1,2 +1,7 @@
 # Butterfly Bodylock (top)
-#T0
+Position: #T2
+Tags: #guard
+
+[[Butterfly Lift (top)]]
+[[Underhook Butterfly (top)]]
+[[Knee Slice (bot)]]

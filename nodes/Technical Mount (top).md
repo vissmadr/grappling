@@ -1,5 +1,6 @@
 # Technical Mount (top)
-#T5
+Position: #T5
+Tags: #pressure
 
 [[Mount Giftwrap (attack)]]
 [[Mounted Triangle (attack)]]

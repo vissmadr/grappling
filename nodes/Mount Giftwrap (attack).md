@@ -1,5 +1,6 @@
 # Mount Giftwrap (attack)
-#T5
+Position: #T5
+Tags: #pressure
 
 [[Back (attack)]]
 [[Backmount (attack)]]

@@ -1,5 +1,6 @@
 # Open Guard (top)
-#T3
+Position: #T3
+Tags: #guard
 
 [[Shin Guard (top)]]
 [[Reverse DeLaRiva (top)]]

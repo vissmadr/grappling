@@ -1,2 +1,7 @@
 # Kimura Ride (defend)
-#T0
+Position: #T2
+Tags: 
+
+[[Mount (bot)]]
+[[Kimura Trap (defend)]]
+[[Turtle Kimura (defend)]]

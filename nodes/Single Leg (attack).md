@@ -1,2 +1,3 @@
 # Single Leg (attack)
-#T0
+Position: #T0
+Tags: #wrestle

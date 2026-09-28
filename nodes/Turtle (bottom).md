@@ -1,2 +1,0 @@
-# Turtle (bottom)
-#T0

@@ -1,2 +1,3 @@
 # Standing Back Control (attack)
-#T5
+Position: #T5
+Tags: #pressure #choke #endgame

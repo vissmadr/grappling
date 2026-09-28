@@ -1,2 +1,3 @@
 # Crab Ride (attack)
-#T0
+Position: #T0
+Tags: 

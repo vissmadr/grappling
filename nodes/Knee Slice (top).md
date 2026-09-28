@@ -1,5 +1,7 @@
 # Knee Slice (top)
-#T5
+Position: #T5
+Tags: #pressure
 
 [[Three Quarters Mount (top)]]
 [[Side Control (top)]]
+[[Knee on Belly (top)]]

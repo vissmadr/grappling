@@ -1,4 +1,5 @@
 # Lowground (attack)
-#T4
+Position: #T4
+Tags: 
 
 [[Crucifix (attack)]]

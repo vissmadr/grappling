@@ -1,2 +1,5 @@
 # Kimura Padlock (defend)
-#T0
+Position: #T1
+Tags: 
+
+[[Kimura Ride (defend)]]

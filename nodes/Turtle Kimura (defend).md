@@ -1,2 +1,7 @@
 # Turtle Kimura (defend)
-#T0
+Position: #T2
+Tags: 
+
+[[Kimura Ride (defend)]]
+[[Kimura Padlock (defend)]]
+[[Standing Kimura (defend)]]

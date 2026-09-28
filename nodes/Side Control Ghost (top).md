@@ -1,5 +1,6 @@
 # Side Control Ghost (top)
-#T3
+Position: #T3
+Tags: #pressure
 
 [[Northsouth (top)]]
 

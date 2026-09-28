@@ -1,2 +1,5 @@
 # Kesa Gatame (top)
-#T0
+Position: #T4
+Tags: #pressure
+
+[[Full Kesa Gatame (top)]]

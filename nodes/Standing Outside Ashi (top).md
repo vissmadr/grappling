@@ -1,2 +1,3 @@
 # Standing Outside Ashi (top)
-#T0
+Position: #T0
+Tags: #leglock

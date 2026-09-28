@@ -1,2 +1,5 @@
 # Double Cross Ashi (attack)
-#T5
+Position: #T5
+Tags: #leglock
+
+[[Cross Ashi (attack)]]

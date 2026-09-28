@@ -1,2 +1,3 @@
 # Irimi Ashi (attack)
-#T4
+Position: #T5
+Tags: #leglock

@@ -1,2 +1,3 @@
 # Arm Triangle (attack)
-#T5
+Position: #T5
+Tags: #choke

@@ -1,2 +1,3 @@
 # Standing K Guard (top)
-#T3
+Position: #T3
+Tags: 

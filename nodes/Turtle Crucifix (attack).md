@@ -1,2 +1,7 @@
 # Turtle Crucifix (attack)
-#T0
+Position: #T5
+Tags: #choke
+
+[[Crucifix (attack)]]
+
+[[Turtle Control (top)]]

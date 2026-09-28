@@ -1,2 +1,5 @@
 # Standing Inside Ashi (top)
-#T1
+Position: #T1
+Tags: #leglock
+
+[[Inside Ashi (defend)]]

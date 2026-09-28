@@ -1,2 +1,7 @@
 # Butterfly Lift (top)
-#T0
+Position: #T2
+Tags: #guard
+
+[[Standing Irimi Ashi (top)]]
+[[Butterfly Bodylock (top)]]
+[[Shoulder Crunch (defend)]]

@@ -1,2 +1,5 @@
 # Spiderweb (defend)
-#T0
+Position: #T1
+Tags: 
+
+[[Front Triangle (defend)]]

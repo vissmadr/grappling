@@ -1,2 +1,3 @@
 # Armbar (attack)
-#T0
+Position: #T0
+Tags: 

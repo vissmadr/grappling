@@ -1,2 +1,7 @@
 # Turtle Kimura (attack)
-#T0
+Position: #T4
+Tags: 
+
+[[Kimura Ride (attack)]]
+[[Kimura Padlock (attack)]]
+[[Standing Kimura (attack)]]
