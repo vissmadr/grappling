@@ -1,3 +1,5 @@
 # Standing Outside Ashi (top)
-Position: #T0
+Position: #T3
 Tags: #leglock
+
+[[Smashed Outside Ashi (top)]]

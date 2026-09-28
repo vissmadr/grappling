@@ -4,3 +4,5 @@ Tags: #leglock
 
 [[Fifty Fifty]]
 [[Irimi Ashi (attack)]]
+
+[[Standing Outside Ashi (bot)]]

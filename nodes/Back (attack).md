@@ -4,3 +4,4 @@ Tags: #choke #endgame
 
 [[Back Body Triangle (attack)]]
 [[Back Triangle (attack)]]
+[[Armbar (attack)]]
