@@ -1,0 +1,2 @@
+[[Coyote (attack)]]
+[[Godfather (attack)]]

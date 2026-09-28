@@ -1,0 +1,1 @@
+[[Standing Irimi Ashi (bottom)]]
