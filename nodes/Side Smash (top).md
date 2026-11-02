@@ -1,4 +1,4 @@
-# Shield Smash (top)
+# Side Smash (top)
 Position: #T3
 Tags: 
 

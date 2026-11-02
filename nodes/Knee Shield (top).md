@@ -8,4 +8,4 @@ Tags:
 
 [[Split Squat (top)]]
 [[Knee Shield Weave (top)]]
-[[Shield Smash (top)]]
+[[Side Smash (top)]]

@@ -8,4 +8,4 @@ Tags:
 
 [[Split Squat (bot)]]
 [[Knee Shield Weave (bot)]]
-[[Shield Smash (bot)]]
+[[Side Smash (bot)]]

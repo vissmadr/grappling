@@ -1,4 +1,4 @@
-# Shield Smash (bot)
+# Side Smash (bot)
 Position: #T3
 Tags: 
 
